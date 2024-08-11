@@ -1,2 +1,2 @@
-frontend url: soumya-zeecare-hsm.netlify.app
-dashboard url: soumya-zeecare-admin-dashboard.netlify.app
+frontend url: [Link text](soumya-zeecare-hsm.netlify.app)
+dashboard url: [Link text](soumya-zeecare-admin-dashboard.netlify.app)
